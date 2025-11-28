@@ -9,11 +9,11 @@
 </h1>
 <div align="center">
 
-<a href="https://github.com/mynna404">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mynna404" />
+<a href="https://github.com/Akika404">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akika404" />
 </a>
-<a href="https://github.com/mynna404">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynna404&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=mynna404.github.io,locall" />
+<a href="https://github.com/Akika404">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akika404&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=Akika404.github.io,locall" />
 </a>
 
 </div>
